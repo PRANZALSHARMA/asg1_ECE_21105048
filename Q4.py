@@ -3,7 +3,7 @@
 lst=[]
 
 for i in range(5):
-    name=input("Student name: ")
-    lst.append(name)
+    marks=float(input("Student marks: "))
+    lst.append(marks)
 lst.sort()
-print("\nSorted List Of Students:-",lst,sep='\n')
+print("\nSorted List Of marks:-",lst,sep='\n')
