@@ -1,0 +1,61 @@
+             Program 1
+
+Enter number: 3.5
+Enter number: 8.16
+Enter number: 6
+
+Average of the numbers is:  5.89
+
+             Program 2
+___INCOME TAX___
+• All taxpayers are charged a flat tax rate of 20%.
+• All taxpayers are allowed a $10,000 standard deduction.
+• For each dependent, a taxpayer is allowed an additional $3,000 deduction.
+• Gross income must be entered to the nearest penny.
+
+
+Enter your income to the nearest penny(without commas): $5000000
+Enter the number of dependents in family: 7
+Your taxable income is $4969000.0
+Income Tax =$993800.0
+
+             Program 3
+
+Enter the number of students in class: 2
+
+Student ID: 21105048
+Student's Name: Pranzal Sharma
+Student's Gender
+[Note: Use Gender values: ‘F’, ‘M’, ‘U’ (For Unknown).]: M
+Student's course: B.TECH
+Student's CGPA: 10
+
+Student ID: 21305931
+Student's Name: Random
+Student's Gender
+[Note: Use Gender values: ‘F’, ‘M’, ‘U’ (For Unknown).]: U
+Student's course: PHD
+Student's CGPA: 6.9
+
+
+Student List:-
+ [[21105048, 'Pranzal Sharma', 'M', 'B.TECH', 10.0], [21305931, 'Random', 'U', 'PHD', 6.9]]
+
+             Program 4
+
+Student marks: 90
+Student marks: 76
+Student marks: 97
+Student marks: 69
+Student marks: 82
+
+Sorted List Of Student marks:-
+['69', '76', '82', '90', '97']
+
+             Program 5
+
+a.
+ ['Red', 'Green', 'White', 'Pink', 'Yellow']
+
+b.
+ ['Red', 'Green', 'White', 'Yellow']
